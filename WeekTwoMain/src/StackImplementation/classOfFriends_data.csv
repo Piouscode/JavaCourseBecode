@@ -1,0 +1,3 @@
+Index,Value
+0,Person{name='Bob', birthday=1985-06-15, favoriteColor='green', hobbies=[painting, swimming], catOrDog='dog', gender='male'}
+1,Person{name='Pious', birthday=1990-01-01, favoriteColor='blue', hobbies=[reading, running], catOrDog='Dog', gender='male'}
